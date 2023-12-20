@@ -1,0 +1,72 @@
+{
+    "lang": "en-us",
+    "name": "iKolek",
+    "short_name": "iKolek",
+    "description": "A garbage truck Tracker",
+    "start_url": "/index.html",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "portrait-primary",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logo72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "images/logo96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/logo128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "images/logo144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/logo152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "images/logo192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/logo384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "images/logo512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+
+    "screenshots": [
+        {
+         "src": "images/logo384x384.png",
+          "sizes": "384x384",
+          "type": "image/png",
+          "form_factor": "narrow",
+          "label": "iKolek Widget"
+        },
+
+        {
+            "src": "images/logo384x384.png",
+             "sizes": "384x384",
+             "type": "image/png",
+             "form_factor": "wide",
+             "label": "iKolek Widget"
+        }
+
+    ]
+}
