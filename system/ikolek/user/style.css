@@ -1,0 +1,42 @@
+/* Larger than mobile screen */
+@media (min-width: 576px) {
+    /* Adjust the size of the logo */
+    .navbar-brand img {
+        width: 80%;
+        max-width: 200px;
+    }
+
+    /* Adjust the width of the notification dropdown */
+    .dropdown-menu {
+        width: 100%;
+        max-width: 400px;
+    }
+}
+
+/* Larger than tablet screen */
+@media (min-width: 768px) {
+    /* Adjust the size of the logo */
+    .navbar-brand img {
+        width: 60%;
+        max-width: 250px;
+    }
+}
+
+/* Larger than desktop screen */
+@media (min-width: 992px) {
+    /* Adjust the size of the logo */
+    .navbar-brand img {
+        width: 50%;
+        max-width: 300px;
+    }
+
+    /* Adjust the size of the form */
+    .form-floating {
+        width: 70%;
+    }
+}
+
+/* Larger than widescreen monitor */
+@media (min-width: 1200px) {
+    /* No additional styles for widescreen */
+}
